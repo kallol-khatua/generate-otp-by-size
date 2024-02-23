@@ -1,0 +1,22 @@
+{
+  "name": "generate-otp-by-size",
+  "version": "0.0.1",
+  "description": "generate otp by size",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallol-khatua/generate-otp-by-size"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "kallol_khatua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kallol-khatua/generate-otp-by-size/issues"
+  },
+  "homepage": "https://github.com/kallol-khatua/generate-otp-by-size#readme"
+}
